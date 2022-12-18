@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author LoL
+ *
+ */
+module EmailApplicationSystem {
+}
